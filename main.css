@@ -2,9 +2,11 @@ body{
     background-color:#85144b;
 }
 
+/*
 *{
     border: 1px dashed pink;
 }
+*/
 
 #MainTitle{
     font-family: Verdana, Geneva, sans-serif;
@@ -17,6 +19,10 @@ body{
 
 }
 
-#MainContainer{
+#AppCanvas{
 
+    display: block;
+    margin: 0 auto;
+    border: 5px solid #F012BE;
 }
+
