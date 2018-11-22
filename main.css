@@ -1,0 +1,11 @@
+body{
+    background-color: darkblue;
+}
+
+#MainTitle{
+    font-family: 'Lucida Sans';
+    text-align: center;
+    size: 200%;
+    color: aliceblue;
+    padding: 20px;
+}
