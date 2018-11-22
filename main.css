@@ -1,11 +1,22 @@
 body{
-    background-color: darkblue;
+    background-color:#85144b;
+}
+
+*{
+    border: 1px dashed pink;
 }
 
 #MainTitle{
-    font-family: 'Lucida Sans';
+    font-family: Verdana, Geneva, sans-serif;
     text-align: center;
-    size: 200%;
+    font-size:333%;
     color: aliceblue;
-    padding: 20px;
+    padding-bottom: 20px;
+    letter-spacing: 4px;
+    font-weight: 100;
+
+}
+
+#MainContainer{
+
 }
